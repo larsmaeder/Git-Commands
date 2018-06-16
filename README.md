@@ -14,6 +14,13 @@ _A list of my commonly used Git commands_
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
+### Connect to a remote repository
+
+| Command | Description |
+| ------- | ----------- |
+| `git remote add origin [server]` | Connect your local repository to a remote server |
+| `git remote -v` | List all currently configured remote repositories |
+
 ### Basic Snapshotting
 
 | Command | Description |
@@ -62,5 +69,4 @@ _A list of my commonly used Git commands_
 | ------- | ----------- |
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
-| `git diff [source branch] [target branch}` | Preview changes before merging |
-
+| `git diff [source branch] [target branch]` | Preview changes before merging |
