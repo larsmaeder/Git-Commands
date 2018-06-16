@@ -1,7 +1,7 @@
 Git Commands
 ============
 
-_Customized list from @joshnh «A list of my commonly used Git commands»_ 
+_Customized list from [@joshnh «A list of my commonly used Git commands»](https://github.com/joshnh/Git-Commands)_ 
 
 --
 
