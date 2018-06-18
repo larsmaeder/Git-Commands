@@ -68,3 +68,13 @@ _Customized list from [@joshnh «A list of my commonly used Git commands»](http
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### Python Commands
+
+In order to start developing and loading data asynchronously make sure that you run a python server:
+
+```
+$ python -m SimpleHTTPServer 3000
+```
+
+To stop the server type `ctrl-c`. Once your server is running you can navigate to [`localhost:3000`](http://localhost:3000).
