@@ -18,6 +18,7 @@ _Customized list from [@joshnh «A list of my commonly used Git commands»](http
 | ------- | ----------- |
 | `git remote add origin [server]` | Connect your local repository to a remote server |
 | `git remote -v` | List all currently configured remote repositories |
+| `git remote set-url origin [server]` | Changes an existing remote repository URL |
 
 ### Basic Snapshotting
 
