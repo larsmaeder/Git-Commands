@@ -78,4 +78,4 @@ In order to start developing and loading data asynchronously make sure that you 
 $ python -m SimpleHTTPServer 3000
 ```
 
-To stop the server type `ctrl-c`. Once your server is running you can navigate to [`localhost:3000`](http://localhost:3000).
+To stop the server press `ctrl` + `c`. Once your server is running you can navigate to [`localhost:3000`](http://localhost:3000).
